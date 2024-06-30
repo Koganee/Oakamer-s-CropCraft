@@ -1,4 +1,4 @@
-# Oakamer-s-CropCraft
+# Oakamer's CropCraft
 
 
 Step 1. Mine Diamonds!
